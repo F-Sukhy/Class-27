@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.group{
+   text-align: center;
+}
+#btn{
+    margin-top: 50px;
+    margin-bottom: 20px;
+    padding: 10px 30px;
+    
+}
+.mainbox{
+    width: 500px;
+    height: 500px;
+    border: 5px solid green;
+    margin: 0 auto;
+    position: relative;
+}
+.box{
+    background: red;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+}
